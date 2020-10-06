@@ -1,11 +1,2 @@
-**/.env.d
-
-.env/
-
-**/.DS_Store
-
-node_nodules
-**/node_modules
-**/.env.d
-**/.env
-
+**/.autoenv.d
+**/.autoenv
